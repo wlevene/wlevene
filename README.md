@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
-[![Levene's github stats](https://github-readme-stats.vercel.app/api?username=wlevene&show_icons=true)](https://github.com/wlevene/github-readme-stats)
 
 <!--
 **wlevene/wlevene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+[![Levene's github stats](https://github-readme-stats.vercel.app/api?username=wlevene&show_icons=true)](https://github.com/wlevene/github-readme-stats)
